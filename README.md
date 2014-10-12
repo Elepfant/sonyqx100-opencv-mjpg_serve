@@ -1,4 +1,6 @@
 sonyqx100-opencv-mjpg_serve
 ===========================
 
-Decodes sonyqx100 Liveview stream,  corrects lens failures and serves it as a mjpg stream
+Python Interface for sonyqx100 camera.
+  - Decodes sonyqx100 Liveview streams
+  - Serves it back as a mjpg stream
