@@ -1,6 +1,6 @@
 sonyqx100-opencv-mjpg_serve
 ===========================
 
-Python Interface for sonyqx100 camera.
-  - Decodes sonyqx100 Liveview streams
-  - Serves it back as a mjpg stream
+Python interface for sonyqx100 camera.
+  - Decodes sonyqx100 liveview video stream
+  - Serves it as an mjpg stream
