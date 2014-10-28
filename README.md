@@ -1,4 +1,4 @@
-sonyqx100 Python Interface
+Sony QX100 Python Interface
 ===========================
 
 Python interface for sonyqx100 camera.
