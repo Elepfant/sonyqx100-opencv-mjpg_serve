@@ -1,4 +1,4 @@
-sonyqx100-opencv-mjpg_serve
+sonyqx100 Python Interface
 ===========================
 
 Python interface for sonyqx100 camera.
