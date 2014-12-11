@@ -194,4 +194,8 @@ def decode_frame(data):
 
 prompt = MyPrompt()
 prompt.prompt = '> '
+<<<<<<< HEAD
 prompt.cmdloop('starting qx100 control')
+=======
+prompt.cmdloop('starting qx100 control')
+>>>>>>> 05258b5700055f8400b82a69e3717ec692afd02b
